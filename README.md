@@ -9,8 +9,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2887-sort-vowels-in-a-string](https://github.com/deviakula2006/leethub/tree/master/2887-sort-vowels-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/deviakula2006/leethub/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
 | [2887-sort-vowels-in-a-string](https://github.com/deviakula2006/leethub/tree/master/2887-sort-vowels-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/deviakula2006/leethub/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Counting
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/deviakula2006/leethub/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
