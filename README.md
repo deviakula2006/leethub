@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/deviakula2006/leethub/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2887-sort-vowels-in-a-string](https://github.com/deviakula2006/leethub/tree/master/2887-sort-vowels-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/deviakula2006/leethub/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/deviakula2006/leethub/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/deviakula2006/leethub/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
