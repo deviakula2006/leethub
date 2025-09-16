@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/deviakula2006/leethub/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/deviakula2006/leethub/tree/master/0141-linked-list-cycle) |
 | [0290-word-pattern](https://github.com/deviakula2006/leethub/tree/master/0290-word-pattern) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/deviakula2006/leethub/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/deviakula2006/leethub/tree/master/0141-linked-list-cycle) |
+## Array
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/deviakula2006/leethub/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/deviakula2006/leethub/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
