@@ -26,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/deviakula2006/leethub/tree/master/0290-word-pattern) |
 | [0782-jewels-and-stones](https://github.com/deviakula2006/leethub/tree/master/0782-jewels-and-stones) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/deviakula2006/leethub/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/deviakula2006/leethub/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/deviakula2006/leethub/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/deviakula2006/leethub/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/deviakula2006/leethub/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/deviakula2006/leethub/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/deviakula2006/leethub/tree/master/0219-contains-duplicate-ii) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/deviakula2006/leethub/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Matrix
 |  |
 | ------- |
