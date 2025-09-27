@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/deviakula2006/leethub/tree/master/0070-climbing-stairs) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/deviakula2006/leethub/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## String
 |  |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/deviakula2006/leethub/tree/master/0219-contains-duplicate-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/deviakula2006/leethub/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/deviakula2006/leethub/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
