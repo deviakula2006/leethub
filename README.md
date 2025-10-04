@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/deviakula2006/leethub/tree/master/0219-contains-duplicate-ii) |
 | [0830-largest-triangle-area](https://github.com/deviakula2006/leethub/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/deviakula2006/leethub/tree/master/1018-largest-perimeter-triangle) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/deviakula2006/leethub/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/deviakula2006/leethub/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Matrix
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/deviakula2006/leethub/tree/master/1018-largest-perimeter-triangle) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/deviakula2006/leethub/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 ## Simulation
 |  |
 | ------- |
