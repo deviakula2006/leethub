@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/deviakula2006/leethub/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1962-single-threaded-cpu](https://github.com/deviakula2006/leethub/tree/master/1962-single-threaded-cpu) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/deviakula2006/leethub/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/deviakula2006/leethub/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Matrix
 |  |
 | ------- |
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1962-single-threaded-cpu](https://github.com/deviakula2006/leethub/tree/master/1962-single-threaded-cpu) |
+## Prefix Sum
+|  |
+| ------- |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/deviakula2006/leethub/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 <!---LeetCode Topics End-->
