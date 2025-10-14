@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/deviakula2006/leethub/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/deviakula2006/leethub/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/deviakula2006/leethub/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/deviakula2006/leethub/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/deviakula2006/leethub/tree/master/0290-word-pattern) |
 | [0782-jewels-and-stones](https://github.com/deviakula2006/leethub/tree/master/0782-jewels-and-stones) |
@@ -48,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/deviakula2006/leethub/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/deviakula2006/leethub/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/deviakula2006/leethub/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/deviakula2006/leethub/tree/master/0142-linked-list-cycle-ii) |
 ## Array
 |  |
 | ------- |
