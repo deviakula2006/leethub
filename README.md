@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/deviakula2006/leethub/tree/master/1962-single-threaded-cpu) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/deviakula2006/leethub/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/deviakula2006/leethub/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/deviakula2006/leethub/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Matrix
 |  |
 | ------- |
