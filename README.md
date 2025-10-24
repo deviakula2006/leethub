@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/deviakula2006/leethub/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/deviakula2006/leethub/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4045-longest-balanced-subarray-i](https://github.com/deviakula2006/leethub/tree/master/4045-longest-balanced-subarray-i) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/deviakula2006/leethub/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Counting
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/deviakula2006/leethub/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/deviakula2006/leethub/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [4045-longest-balanced-subarray-i](https://github.com/deviakula2006/leethub/tree/master/4045-longest-balanced-subarray-i) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/deviakula2006/leethub/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Matrix
 |  |
 | ------- |
