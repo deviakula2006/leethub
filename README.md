@@ -65,11 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/deviakula2006/leethub/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/deviakula2006/leethub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/deviakula2006/leethub/tree/master/0142-linked-list-cycle-ii) |
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/deviakula2006/leethub/tree/master/0011-container-with-most-water) |
 | [0064-minimum-path-sum](https://github.com/deviakula2006/leethub/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/deviakula2006/leethub/tree/master/0073-set-matrix-zeroes) |
 | [0120-triangle](https://github.com/deviakula2006/leethub/tree/master/0120-triangle) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/deviakula2006/leethub/tree/master/0011-container-with-most-water) |
 | [1018-largest-perimeter-triangle](https://github.com/deviakula2006/leethub/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/deviakula2006/leethub/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/deviakula2006/leethub/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
