@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/deviakula2006/leethub/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/deviakula2006/leethub/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/deviakula2006/leethub/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2187-vowels-of-all-substrings](https://github.com/deviakula2006/leethub/tree/master/2187-vowels-of-all-substrings) |
 | [3336-water-bottles-ii](https://github.com/deviakula2006/leethub/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/deviakula2006/leethub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/deviakula2006/leethub/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/deviakula2006/leethub/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/deviakula2006/leethub/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2187-vowels-of-all-substrings](https://github.com/deviakula2006/leethub/tree/master/2187-vowels-of-all-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/deviakula2006/leethub/tree/master/2887-sort-vowels-in-a-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/deviakula2006/leethub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/deviakula2006/leethub/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/deviakula2006/leethub/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/deviakula2006/leethub/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/deviakula2006/leethub/tree/master/0120-triangle) |
+| [2187-vowels-of-all-substrings](https://github.com/deviakula2006/leethub/tree/master/2187-vowels-of-all-substrings) |
 ## Memoization
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/deviakula2006/leethub/tree/master/0062-unique-paths) |
+| [2187-vowels-of-all-substrings](https://github.com/deviakula2006/leethub/tree/master/2187-vowels-of-all-substrings) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/deviakula2006/leethub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Geometry
 |  |
