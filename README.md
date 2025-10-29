@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/deviakula2006/leethub/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2187-vowels-of-all-substrings](https://github.com/deviakula2006/leethub/tree/master/2187-vowels-of-all-substrings) |
 | [3336-water-bottles-ii](https://github.com/deviakula2006/leethub/tree/master/3336-water-bottles-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/deviakula2006/leethub/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/deviakula2006/leethub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/deviakula2006/leethub/tree/master/2174-next-greater-numerically-balanced-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3676-smallest-number-with-all-set-bits](https://github.com/deviakula2006/leethub/tree/master/3676-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
