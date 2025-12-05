@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/deviakula2006/leethub/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2187-vowels-of-all-substrings](https://github.com/deviakula2006/leethub/tree/master/2187-vowels-of-all-substrings) |
 | [3336-water-bottles-ii](https://github.com/deviakula2006/leethub/tree/master/3336-water-bottles-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/deviakula2006/leethub/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/deviakula2006/leethub/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/deviakula2006/leethub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/deviakula2006/leethub/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/deviakula2006/leethub/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/deviakula2006/leethub/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/deviakula2006/leethub/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/deviakula2006/leethub/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/deviakula2006/leethub/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/deviakula2006/leethub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/deviakula2006/leethub/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/deviakula2006/leethub/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/deviakula2006/leethub/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [4045-longest-balanced-subarray-i](https://github.com/deviakula2006/leethub/tree/master/4045-longest-balanced-subarray-i) |
 ## Recursion
 |  |
