@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/deviakula2006/leethub/tree/master/0011-container-with-most-water) |
+| [0054-spiral-matrix](https://github.com/deviakula2006/leethub/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/deviakula2006/leethub/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/deviakula2006/leethub/tree/master/0073-set-matrix-zeroes) |
 | [0120-triangle](https://github.com/deviakula2006/leethub/tree/master/0120-triangle) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/deviakula2006/leethub/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/deviakula2006/leethub/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/deviakula2006/leethub/tree/master/0073-set-matrix-zeroes) |
 | [1222-queens-that-can-attack-the-king](https://github.com/deviakula2006/leethub/tree/master/1222-queens-that-can-attack-the-king) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/deviakula2006/leethub/tree/master/0054-spiral-matrix) |
 | [1222-queens-that-can-attack-the-king](https://github.com/deviakula2006/leethub/tree/master/1222-queens-that-can-attack-the-king) |
 | [1642-water-bottles](https://github.com/deviakula2006/leethub/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/deviakula2006/leethub/tree/master/2137-final-value-of-variable-after-performing-operations) |
