@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/deviakula2006/leethub/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/deviakula2006/leethub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/deviakula2006/leethub/tree/master/0142-linked-list-cycle-ii) |
+| [0283-move-zeroes](https://github.com/deviakula2006/leethub/tree/master/0283-move-zeroes) |
 ## Array
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/deviakula2006/leethub/tree/master/0073-set-matrix-zeroes) |
 | [0120-triangle](https://github.com/deviakula2006/leethub/tree/master/0120-triangle) |
 | [0219-contains-duplicate-ii](https://github.com/deviakula2006/leethub/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/deviakula2006/leethub/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/deviakula2006/leethub/tree/master/0289-game-of-life) |
 | [0830-largest-triangle-area](https://github.com/deviakula2006/leethub/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/deviakula2006/leethub/tree/master/1018-largest-perimeter-triangle) |
