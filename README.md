@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/deviakula2006/leethub/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1962-single-threaded-cpu](https://github.com/deviakula2006/leethub/tree/master/1962-single-threaded-cpu) |
 | [2887-sort-vowels-in-a-string](https://github.com/deviakula2006/leethub/tree/master/2887-sort-vowels-in-a-string) |
+| [3531-count-covered-buildings](https://github.com/deviakula2006/leethub/tree/master/3531-count-covered-buildings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/deviakula2006/leethub/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/deviakula2006/leethub/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/deviakula2006/leethub/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/deviakula2006/leethub/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3531-count-covered-buildings](https://github.com/deviakula2006/leethub/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/deviakula2006/leethub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/deviakula2006/leethub/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4045-longest-balanced-subarray-i](https://github.com/deviakula2006/leethub/tree/master/4045-longest-balanced-subarray-i) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/deviakula2006/leethub/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/deviakula2006/leethub/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/deviakula2006/leethub/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3531-count-covered-buildings](https://github.com/deviakula2006/leethub/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/deviakula2006/leethub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/deviakula2006/leethub/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/deviakula2006/leethub/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
