@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/deviakula2006/leethub/tree/master/0782-jewels-and-stones) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/deviakula2006/leethub/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/deviakula2006/leethub/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1678-goal-parser-interpretation](https://github.com/deviakula2006/leethub/tree/master/1678-goal-parser-interpretation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/deviakula2006/leethub/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2187-vowels-of-all-substrings](https://github.com/deviakula2006/leethub/tree/master/2187-vowels-of-all-substrings) |
 | [2211-count-collisions-on-a-road](https://github.com/deviakula2006/leethub/tree/master/2211-count-collisions-on-a-road) |
