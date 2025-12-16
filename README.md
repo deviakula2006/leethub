@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/deviakula2006/leethub/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1962-single-threaded-cpu](https://github.com/deviakula2006/leethub/tree/master/1962-single-threaded-cpu) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/deviakula2006/leethub/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2865-beautiful-towers-i](https://github.com/deviakula2006/leethub/tree/master/2865-beautiful-towers-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/deviakula2006/leethub/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/deviakula2006/leethub/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/deviakula2006/leethub/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -210,9 +211,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/deviakula2006/leethub/tree/master/2211-count-collisions-on-a-road) |
+| [2865-beautiful-towers-i](https://github.com/deviakula2006/leethub/tree/master/2865-beautiful-towers-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/deviakula2006/leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/deviakula2006/leethub/tree/master/0162-find-peak-element) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2865-beautiful-towers-i](https://github.com/deviakula2006/leethub/tree/master/2865-beautiful-towers-i) |
 <!---LeetCode Topics End-->
