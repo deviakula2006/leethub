@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/deviakula2006/leethub/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/deviakula2006/leethub/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1222-queens-that-can-attack-the-king](https://github.com/deviakula2006/leethub/tree/master/1222-queens-that-can-attack-the-king) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/deviakula2006/leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/deviakula2006/leethub/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1962-single-threaded-cpu](https://github.com/deviakula2006/leethub/tree/master/1962-single-threaded-cpu) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/deviakula2006/leethub/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/deviakula2006/leethub/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/deviakula2006/leethub/tree/master/0289-game-of-life) |
 | [1222-queens-that-can-attack-the-king](https://github.com/deviakula2006/leethub/tree/master/1222-queens-that-can-attack-the-king) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/deviakula2006/leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/deviakula2006/leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/deviakula2006/leethub/tree/master/0162-find-peak-element) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/deviakula2006/leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
