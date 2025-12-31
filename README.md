@@ -75,12 +75,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/deviakula2006/leethub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/deviakula2006/leethub/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/deviakula2006/leethub/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/deviakula2006/leethub/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/deviakula2006/leethub/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/deviakula2006/leethub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/deviakula2006/leethub/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/deviakula2006/leethub/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/deviakula2006/leethub/tree/master/0283-move-zeroes) |
 ## Array
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/deviakula2006/leethub/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/deviakula2006/leethub/tree/master/0234-palindrome-linked-list) |
 ## Number Theory
 |  |
 | ------- |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/deviakula2006/leethub/tree/master/0234-palindrome-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/deviakula2006/leethub/tree/master/2211-count-collisions-on-a-road) |
 | [2865-beautiful-towers-i](https://github.com/deviakula2006/leethub/tree/master/2865-beautiful-towers-i) |
 ## Binary Search
