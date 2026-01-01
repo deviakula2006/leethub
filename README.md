@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/deviakula2006/leethub/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/deviakula2006/leethub/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/deviakula2006/leethub/tree/master/0070-climbing-stairs) |
 | [0830-largest-triangle-area](https://github.com/deviakula2006/leethub/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/deviakula2006/leethub/tree/master/1018-largest-perimeter-triangle) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/deviakula2006/leethub/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/deviakula2006/leethub/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/deviakula2006/leethub/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/deviakula2006/leethub/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/deviakula2006/leethub/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/deviakula2006/leethub/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/deviakula2006/leethub/tree/master/0120-triangle) |
