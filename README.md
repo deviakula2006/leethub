@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/deviakula2006/leethub/tree/master/1962-single-threaded-cpu) |
 | [2887-sort-vowels-in-a-string](https://github.com/deviakula2006/leethub/tree/master/2887-sort-vowels-in-a-string) |
 | [3531-count-covered-buildings](https://github.com/deviakula2006/leethub/tree/master/3531-count-covered-buildings) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/deviakula2006/leethub/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/deviakula2006/leethub/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Hash Table
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/deviakula2006/leethub/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/deviakula2006/leethub/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/deviakula2006/leethub/tree/master/3531-count-covered-buildings) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/deviakula2006/leethub/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/deviakula2006/leethub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/deviakula2006/leethub/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/deviakula2006/leethub/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1222-queens-that-can-attack-the-king](https://github.com/deviakula2006/leethub/tree/master/1222-queens-that-can-attack-the-king) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/deviakula2006/leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/deviakula2006/leethub/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/deviakula2006/leethub/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Sliding Window
 |  |
 | ------- |
