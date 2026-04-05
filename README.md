@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/deviakula2006/leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/deviakula2006/leethub/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/deviakula2006/leethub/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/deviakula2006/leethub/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/deviakula2006/leethub/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/deviakula2006/leethub/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/deviakula2006/leethub/tree/master/0073-set-matrix-zeroes) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/deviakula2006/leethub/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/deviakula2006/leethub/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/deviakula2006/leethub/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/deviakula2006/leethub/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/deviakula2006/leethub/tree/master/0289-game-of-life) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/deviakula2006/leethub/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/deviakula2006/leethub/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/deviakula2006/leethub/tree/master/0289-game-of-life) |
 | [0657-robot-return-to-origin](https://github.com/deviakula2006/leethub/tree/master/0657-robot-return-to-origin) |
 | [1222-queens-that-can-attack-the-king](https://github.com/deviakula2006/leethub/tree/master/1222-queens-that-can-attack-the-king) |
