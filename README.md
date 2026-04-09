@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/deviakula2006/leethub/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/deviakula2006/leethub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/deviakula2006/leethub/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/deviakula2006/leethub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/deviakula2006/leethub/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/deviakula2006/leethub/tree/master/0283-move-zeroes) |
 | [3643-flip-square-submatrix-vertically](https://github.com/deviakula2006/leethub/tree/master/3643-flip-square-submatrix-vertically) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/deviakula2006/leethub/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/deviakula2006/leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/deviakula2006/leethub/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/deviakula2006/leethub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/deviakula2006/leethub/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/deviakula2006/leethub/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/deviakula2006/leethub/tree/master/0289-game-of-life) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/deviakula2006/leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/deviakula2006/leethub/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/deviakula2006/leethub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/deviakula2006/leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Monotonic Stack
 |  |
