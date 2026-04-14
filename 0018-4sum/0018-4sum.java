@@ -13,7 +13,7 @@ class Solution {
                 if(x==target){
                set.add(Arrays.asList(nums[i],nums[l],nums[r],nums[j]));
                l++;
-               r=nums.length-1;
+              r--;
                 }
                 else if(x<target){
                     l++;
