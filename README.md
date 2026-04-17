@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/deviakula2006/leethub/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/deviakula2006/leethub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/deviakula2006/leethub/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/deviakula2006/leethub/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/deviakula2006/leethub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/deviakula2006/leethub/tree/master/3488-closest-equal-element-queries) |
 | [3531-count-covered-buildings](https://github.com/deviakula2006/leethub/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/deviakula2006/leethub/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/deviakula2006/leethub/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/deviakula2006/leethub/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4045-longest-balanced-subarray-i](https://github.com/deviakula2006/leethub/tree/master/4045-longest-balanced-subarray-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/deviakula2006/leethub/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/deviakula2006/leethub/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3643-flip-square-submatrix-vertically](https://github.com/deviakula2006/leethub/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/deviakula2006/leethub/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/deviakula2006/leethub/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [4045-longest-balanced-subarray-i](https://github.com/deviakula2006/leethub/tree/master/4045-longest-balanced-subarray-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/deviakula2006/leethub/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Matrix
