@@ -1,3 +1,4 @@
+
 class Solution {
     public int Reversed(int num){
         int ans =0;
@@ -16,32 +17,36 @@ class Solution {
             return -1;
     }
     public int minMirrorPairDistance(int[] nums) {
-        LinkedHashMap<Integer,Integer> map = new LinkedHashMap<>();
-        int min =10000001;
+        LinkedHashMap<Integer,List<Integer>> map = new LinkedHashMap<>();
+        int min =Integer.MAX_VALUE;
         int flag=0;
               for(int i=0;i<nums.length;i++){
-         map.put(nums[i],i);
+         map.computeIfAbsent(nums[i],k->new ArrayList<>()).add(i);
               }
               for(int i=0;i<nums.length;i++){
                 int key = nums[i];
                int reversed=Reversed(key);
                 if(map.containsKey(reversed)) {
-                    int ans = map.get(reversed)-map.get(key);
-                    if(ans>0) {
-                        min = Math.min(min,ans);
-                        flag=1;
-                        System.out.println(map.get(key));
+                    List<Integer> list2 = map.get(reversed);
+                    int j =0;
+                    
+                 
+                    while(j<list2.size()){
+                        if(list2.get(j)>i){
+                           min =Math.min(min, list2.get(j)-i);
+                           System.out.println(min);
+                   
+                           break;
+                        }
+                        list2.remove(j);
+                        j=0;
                     }
-                    if(ans==0){
-                       int ind =find(i,nums);
-                       if(ind !=-1) {
-                          min = Math.min(min,ind);
-                          flag=1;
+                   
                        }
                     } 
-                }
-              }
-              if(flag==0) return -1;
+               
+              
+              if(min==Integer.MAX_VALUE) return -1;
               return min;
     }
 }
