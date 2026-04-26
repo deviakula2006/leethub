@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/deviakula2006/leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/deviakula2006/leethub/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/deviakula2006/leethub/tree/master/1390-four-divisors) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/deviakula2006/leethub/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/deviakula2006/leethub/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/deviakula2006/leethub/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/deviakula2006/leethub/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/deviakula2006/leethub/tree/master/0289-game-of-life) |
 | [1222-queens-that-can-attack-the-king](https://github.com/deviakula2006/leethub/tree/master/1222-queens-that-can-attack-the-king) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/deviakula2006/leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/deviakula2006/leethub/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/deviakula2006/leethub/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/deviakula2006/leethub/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/deviakula2006/leethub/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -322,10 +324,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deviakula2006/leethub/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/deviakula2006/leethub/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deviakula2006/leethub/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/deviakula2006/leethub/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -334,4 +338,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/deviakula2006/leethub/tree/master/0128-longest-consecutive-sequence) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/deviakula2006/leethub/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
