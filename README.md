@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/deviakula2006/leethub/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/deviakula2006/leethub/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/deviakula2006/leethub/tree/master/0070-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/deviakula2006/leethub/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/deviakula2006/leethub/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/deviakula2006/leethub/tree/master/1018-largest-perimeter-triangle) |
 | [1390-four-divisors](https://github.com/deviakula2006/leethub/tree/master/1390-four-divisors) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/deviakula2006/leethub/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/deviakula2006/leethub/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/deviakula2006/leethub/tree/master/0120-triangle) |
+| [0788-rotated-digits](https://github.com/deviakula2006/leethub/tree/master/0788-rotated-digits) |
 | [2187-vowels-of-all-substrings](https://github.com/deviakula2006/leethub/tree/master/2187-vowels-of-all-substrings) |
 ## Memoization
 |  |
