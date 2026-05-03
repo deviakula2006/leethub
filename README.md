@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/deviakula2006/leethub/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/deviakula2006/leethub/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/deviakula2006/leethub/tree/master/0782-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/deviakula2006/leethub/tree/master/0796-rotate-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/deviakula2006/leethub/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/deviakula2006/leethub/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1678-goal-parser-interpretation](https://github.com/deviakula2006/leethub/tree/master/1678-goal-parser-interpretation) |
@@ -346,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/deviakula2006/leethub/tree/master/0128-longest-consecutive-sequence) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/deviakula2006/leethub/tree/master/1559-detect-cycles-in-2d-grid) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/deviakula2006/leethub/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
