@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/deviakula2006/leethub/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/deviakula2006/leethub/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/deviakula2006/leethub/tree/master/0289-game-of-life) |
+| [0540-single-element-in-a-sorted-array](https://github.com/deviakula2006/leethub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deviakula2006/leethub/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/deviakula2006/leethub/tree/master/0692-top-k-frequent-words) |
 | [0830-largest-triangle-area](https://github.com/deviakula2006/leethub/tree/master/0830-largest-triangle-area) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/deviakula2006/leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/deviakula2006/leethub/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deviakula2006/leethub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0540-single-element-in-a-sorted-array](https://github.com/deviakula2006/leethub/tree/master/0540-single-element-in-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/deviakula2006/leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/deviakula2006/leethub/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/deviakula2006/leethub/tree/master/3488-closest-equal-element-queries) |
