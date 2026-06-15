@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/deviakula2006/leethub/tree/master/0692-top-k-frequent-words) |
 | [0830-largest-triangle-area](https://github.com/deviakula2006/leethub/tree/master/0830-largest-triangle-area) |
 | [0874-walking-robot-simulation](https://github.com/deviakula2006/leethub/tree/master/0874-walking-robot-simulation) |
+| [0875-koko-eating-bananas](https://github.com/deviakula2006/leethub/tree/master/0875-koko-eating-bananas) |
 | [1018-largest-perimeter-triangle](https://github.com/deviakula2006/leethub/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/deviakula2006/leethub/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1222-queens-that-can-attack-the-king](https://github.com/deviakula2006/leethub/tree/master/1222-queens-that-can-attack-the-king) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/deviakula2006/leethub/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deviakula2006/leethub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/deviakula2006/leethub/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/deviakula2006/leethub/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/deviakula2006/leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/deviakula2006/leethub/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/deviakula2006/leethub/tree/master/3488-closest-equal-element-queries) |
