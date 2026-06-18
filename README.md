@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/deviakula2006/leethub/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/deviakula2006/leethub/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/deviakula2006/leethub/tree/master/1018-largest-perimeter-triangle) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/deviakula2006/leethub/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/deviakula2006/leethub/tree/master/1390-four-divisors) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/deviakula2006/leethub/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/deviakula2006/leethub/tree/master/1523-count-odd-numbers-in-an-interval-range) |
