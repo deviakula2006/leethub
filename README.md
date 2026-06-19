@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/deviakula2006/leethub/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/deviakula2006/leethub/tree/master/1390-four-divisors) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/deviakula2006/leethub/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1732-find-the-highest-altitude](https://github.com/deviakula2006/leethub/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/deviakula2006/leethub/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/deviakula2006/leethub/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/deviakula2006/leethub/tree/master/1861-rotating-the-box) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/deviakula2006/leethub/tree/master/0560-subarray-sum-equals-k) |
+| [1732-find-the-highest-altitude](https://github.com/deviakula2006/leethub/tree/master/1732-find-the-highest-altitude) |
 | [2615-sum-of-distances](https://github.com/deviakula2006/leethub/tree/master/2615-sum-of-distances) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/deviakula2006/leethub/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/deviakula2006/leethub/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
