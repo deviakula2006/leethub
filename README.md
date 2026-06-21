@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/deviakula2006/leethub/tree/master/0692-top-k-frequent-words) |
 | [1018-largest-perimeter-triangle](https://github.com/deviakula2006/leethub/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/deviakula2006/leethub/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1833-maximum-ice-cream-bars](https://github.com/deviakula2006/leethub/tree/master/1833-maximum-ice-cream-bars) |
 | [1962-single-threaded-cpu](https://github.com/deviakula2006/leethub/tree/master/1962-single-threaded-cpu) |
 | [2887-sort-vowels-in-a-string](https://github.com/deviakula2006/leethub/tree/master/2887-sort-vowels-in-a-string) |
 | [3531-count-covered-buildings](https://github.com/deviakula2006/leethub/tree/master/3531-count-covered-buildings) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/deviakula2006/leethub/tree/master/1390-four-divisors) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/deviakula2006/leethub/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1732-find-the-highest-altitude](https://github.com/deviakula2006/leethub/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/deviakula2006/leethub/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/deviakula2006/leethub/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/deviakula2006/leethub/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/deviakula2006/leethub/tree/master/1861-rotating-the-box) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/deviakula2006/leethub/tree/master/0011-container-with-most-water) |
 | [1018-largest-perimeter-triangle](https://github.com/deviakula2006/leethub/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/deviakula2006/leethub/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1833-maximum-ice-cream-bars](https://github.com/deviakula2006/leethub/tree/master/1833-maximum-ice-cream-bars) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/deviakula2006/leethub/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Simulation
 |  |
@@ -386,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/deviakula2006/leethub/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/deviakula2006/leethub/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
