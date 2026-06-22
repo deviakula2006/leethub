@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/deviakula2006/leethub/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/deviakula2006/leethub/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/deviakula2006/leethub/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/deviakula2006/leethub/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/deviakula2006/leethub/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/deviakula2006/leethub/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1678-goal-parser-interpretation](https://github.com/deviakula2006/leethub/tree/master/1678-goal-parser-interpretation) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/deviakula2006/leethub/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/deviakula2006/leethub/tree/master/0782-jewels-and-stones) |
 | [0874-walking-robot-simulation](https://github.com/deviakula2006/leethub/tree/master/0874-walking-robot-simulation) |
+| [1189-maximum-number-of-balloons](https://github.com/deviakula2006/leethub/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/deviakula2006/leethub/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/deviakula2006/leethub/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/deviakula2006/leethub/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/deviakula2006/leethub/tree/master/0692-top-k-frequent-words) |
+| [1189-maximum-number-of-balloons](https://github.com/deviakula2006/leethub/tree/master/1189-maximum-number-of-balloons) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/deviakula2006/leethub/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2833-furthest-point-from-origin](https://github.com/deviakula2006/leethub/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/deviakula2006/leethub/tree/master/3242-count-elements-with-maximum-frequency) |
